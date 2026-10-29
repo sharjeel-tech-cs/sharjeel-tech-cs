@@ -12,7 +12,7 @@ An ambitious Computer Science student at Riphah International University | Aspir
 ---
 
 ### 📌 Repositories & Portfolio
-* 🚀 **[data-science-and-ml-projects](https://github.com/sharjeel-tech-cs/data-science-and-ml-projects)** – Data Science & ML portfolio, featuring the 90-Day Bitcoin Time-Series Analysis.
+* 🚀 **[data-science-and-ml-projects](https://github.com/sharjeel-tech-cs/data-science-and-ml-projects)** – Data Science & ML portfolio.
 * 🐍 **[python-core-and-labs](https://github.com/sharjeel-tech-cs/python-core-and-labs)** – Core Python programming, OOP concepts, and exercise suites.
 * 🏛 **[university-cs-coursework](https://github.com/sharjeel-tech-cs/university-cs-coursework)** – Academic lab  implementations.
 
