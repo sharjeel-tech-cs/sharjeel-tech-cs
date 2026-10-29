@@ -19,5 +19,5 @@ An ambitious Computer Science student at Riphah International University | Aspir
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** [Muhammad Sharjeel Khan](www.linkedin.com/in/muhammad-sharjeel-khan-49a89242b) 
+* **LinkedIn:** www.linkedin.com/in/muhammad-sharjeel-khan-49a89242b
 * **Email:** msharjeelkhan.cs@gmail.com
