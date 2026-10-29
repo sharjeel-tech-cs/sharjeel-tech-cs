@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Sharjeel Khan 👋
 
-<!--
-**sharjeel-tech-cs/sharjeel-tech-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An ambitious Computer Science student at Riphah International University | Aspiring **Data Scientist** & **Machine Learning Engineer** | **Python** | **AI & Data Analytics Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+* **Languages:** Python, C++, Java
+* **Data Science & ML:** Pandas, NumPy, Matplotlib, Plotly
+* **Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code
+
+---
+
+### 📌 Repositories & Portfolio
+* 🚀 **[data-science-and-ml-projects](https://github.com/sharjeel-tech-cs/data-science-and-ml-projects)** – Data Science & ML portfolio, featuring the 90-Day Bitcoin Time-Series Analysis.
+* 🐍 **[python-core-and-labs](https://github.com/sharjeel-tech-cs/python-core-and-labs)** – Core Python programming, OOP concepts, and exercise suites.
+* 🏛 **[university-cs-coursework](https://github.com/sharjeel-tech-cs/university-cs-coursework)** – Academic lab implementations in Data Structures (C++) and Assembly Language.
+
+---
+
+### 📫 Connect With Me
+* **LinkedIn:** [Muhammad Sharjeel Khan](https://www.linkedin.com/in/sharjeel-khan) *(Update with your exact profile URL)*
+* **Email:** msharjeelkhan.cs@gmail.com
