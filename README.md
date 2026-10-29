@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Sharjeel Khan 👋
 
-An ambitious Computer Science student at Riphah International University | Aspiring **Data Scientist** & **Machine Learning Engineer** | **Python** | **AI & Data Analytics Enthusiast**
+An ambitious Computer Science student at Riphah International University | Aspiring **Data Scientist** & **Machine Learning Engineer** | **AI & Data Analytics Enthusiast**
 
 ---
 
